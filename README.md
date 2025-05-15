@@ -1,2 +1,2 @@
-# Komstat Pertemuan Ke-9
-repositi untuk pertemuan ke-9
+# komstat_S23B
+repositori untuk perkuliahan komstat kelas B semester 122
